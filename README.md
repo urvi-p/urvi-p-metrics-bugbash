@@ -1,3 +1,6 @@
 # urvi-p-metrics-bugbash
 
-Updating README for metrics bugbash.
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you!
